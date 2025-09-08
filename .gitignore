@@ -1,0 +1,7 @@
+knowen_ppl/
+unknown_ppl/
+helper.py
+.venv/
+dlib-19.22.99-cp310-cp310-win_amd64.whl
+__pycache__/
+db/
